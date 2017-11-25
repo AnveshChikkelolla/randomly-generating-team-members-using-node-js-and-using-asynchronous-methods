@@ -1,0 +1,23 @@
+//note: if you want number of teams 8 out of 14 the output look like this   
+team no:1
+{"Name":"ganesh","branch":"IT"}
+{"Name":"saikumar","branch":"cse"}
+team no:2
+{"Name":"nihal","branch":"IT"}
+{"Name":"ashish","branch":"IT"}
+team no:3
+{"Name":"sravan","branch":"IT"}
+{"Name":"akhil","branch":"IT"}
+team no:4
+{"Name":"chaithanya","branch":"IT"}
+{"Name":"anurag","branch":"IT"}
+team no:5
+{"Name":"vinay","branch":"IT"}
+{"Name":"anvesh","branch":"IT"}
+team no:6
+{"Name":"venkatesh","branch":"IT"}
+{"Name":"soujanya","branch":"IT"}
+team no:7
+{"Name":"sandeep","branch":"IT"}
+team no:8
+{"Name":"likhitha","branch":"IT"}

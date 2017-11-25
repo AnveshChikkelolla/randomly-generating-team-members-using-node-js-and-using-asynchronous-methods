@@ -1,0 +1,60 @@
+{ 
+  "students" : [ 
+   { 
+      "Name" : "anvesh", 
+      "branch" : "IT"      
+    }, 
+    { 
+      "Name" : "saikumar",
+      "branch" : "cse" 
+    }, 
+    { 
+      "Name" : "venkatesh", 
+      "branch" : "IT"
+    }, 
+    { 
+      "Name" : "vinay", 
+      "branch" : "IT"
+    }, 
+    { 
+      "Name" : "ashish", 
+      "branch" : "IT"
+    }, 
+    { 
+      "Name" : "sravan", 
+      "branch" : "IT"
+    },
+    { 
+      "Name" : "akhil", 
+      "branch" : "IT"
+    }, 
+    { 
+      "Name" : "nihal", 
+      "branch" : "IT"
+    }, 
+    { 
+      "Name" : "soujanya", 
+      "branch" : "IT"
+    }, 
+    { 
+      "Name" : "sandeep", 
+      "branch" : "IT"
+    }, 
+    { 
+      "Name" : "chaithanya", 
+      "branch" : "IT" 
+    }, 
+    { 
+      "Name" : "ganesh", 
+      "branch" : "IT"
+    }, 
+    { 
+      "Name" : "likhitha", 
+      "branch" : "IT"
+    },     
+    { 
+      "Name" : "anurag", 
+      "branch" : "IT" 
+    } 
+  ] 
+}
